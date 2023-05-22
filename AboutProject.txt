@@ -1,0 +1,9 @@
+The Minnesota Department of Transportation contacted you about building a dashboard to help their team monitor traffic patterns. Their goal is to learn more about: 
+
+1. Traffic volume throughout the year; ideally organized by year, month, week, day, and hour
+
+2. Traffic volume in different weather conditions
+
+3. Traffic volume on different holidays
+
+Knowing traffic patterns under these conditions will help the team make important infrastructure decisions. These decisions will ensure that any construction in the future won’t cause problems for drivers. In this reading, you’re going to learn more about upcoming expectations for this project, what you’ll be doing, and you will also receive important project planning documents to help guide your next steps.
